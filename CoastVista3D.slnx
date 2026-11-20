@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CoastVista3D.vcxproj" Id="9c886a91-09af-4b02-8155-58e0d8317ded" />
+</Solution>
